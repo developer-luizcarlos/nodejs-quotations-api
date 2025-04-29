@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "alwaysStrict": true,
+    "esModuleInterop": true,
+    "exactOptionalPropertyTypes": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "outDir": "./build",
+    "removeComments": true,
+    "rootDir": "./src",
+    "strict": true,
+    "strictNullChecks": true,
+    "skipLibCheck": true,
+    "target": "ES2023",
+    "verbatimModuleSyntax": false,
+  },
+  "include": ["src/**/*", "env.d.ts"]
+}

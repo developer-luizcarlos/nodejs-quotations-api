@@ -16,12 +16,12 @@
     "noUnusedParameters": false,
     "outDir": "./build",
     "removeComments": true,
-    "rootDir": "./src",
+    "rootDir": ".",
     "strict": true,
     "strictNullChecks": true,
     "skipLibCheck": true,
     "target": "ES2023",
-    "verbatimModuleSyntax": false,
+    "verbatimModuleSyntax": false
   },
-  "include": ["src/**/*", "env.d.ts"]
+  "include": ["api/**/*", "src/**/*"]
 }

@@ -5,5 +5,5 @@ Inicially, this project does not include a connection with any database,keeping 
 
 ## Routes
 
-- `/quotes`: retrive all the quotes available;
-- `/quotes/random`: retrive a random quote;
+- `https://nodejs-quotations-33e0imsg1-luiz-carlos-projects-ba00d54e.vercel.app/quotes/quotes/`: retrive all the quotes available;
+- `https://nodejs-quotations-33e0imsg1-luiz-carlos-projects-ba00d54e.vercel.app/quotes/quotes/random`: retrive a random quote;
